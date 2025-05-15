@@ -41,7 +41,7 @@ var/
 # Virtual environment
 venv/
 ENV/
-notebooks/
+
 # IDE files
 .idea/
 .vscode/
