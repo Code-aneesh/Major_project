@@ -1,5 +1,15 @@
 # Fetal Ultrasound Structure Detection Using YOLOv8
-
+ultralytics>=8.0.0
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python>=4.5.0
+numpy>=1.19.0
+pandas>=1.1.0
+matplotlib>=3.3.0
+albumentations>=1.0.0
+tqdm>=4.41.0
+Pillow>=8.0.0
+PyYAML>=5.3.1
 ## Project Overview
 This project automates the detection of critical fetal anatomical structures in ultrasound images. Using YOLOv8's deep learning capabilities, it helps medical professionals accurately identify and measure key fetal structures, potentially improving prenatal diagnosis accuracy.
 
