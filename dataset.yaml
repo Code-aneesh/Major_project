@@ -1,0 +1,16 @@
+path: C:/Users/user/OneDrive/Desktop/major project/fetal_ultrasound_project/datasets  # dataset root dir
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+names:
+  0: NT
+  1: nasal_tip
+  2: nasal_skin
+  3: nasal_bone
+  4: thalami
+  5: midbrain
+  6: IT
+  7: CM
+  8: palate

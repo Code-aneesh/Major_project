@@ -1,0 +1,53 @@
+# Datasets
+datasets/
+*.jpg
+*.png
+*.jpeg
+*.bmp
+*.tif
+*.tiff
+
+# Model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Training results
+runs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+notebooks/
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
