@@ -233,5 +233,4 @@ python scripts/predict.py
 4. Enable TensorRT if available
 
 ## Contact and Support
-[Your contact information]
 
