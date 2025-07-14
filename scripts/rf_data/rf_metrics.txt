@@ -1,0 +1,10 @@
+Random Forest Evaluation Metrics
+========================================
+              precision    recall  f1-score   support
+
+           0     0.9735    1.0000    0.9866       147
+           1     1.0000    0.9286    0.9630        56
+
+    accuracy                         0.9803       203
+   macro avg     0.9868    0.9643    0.9748       203
+weighted avg     0.9808    0.9803    0.9801       203

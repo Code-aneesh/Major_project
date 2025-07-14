@@ -1,0 +1,10 @@
+Structure,Precision,Recall,F1-Score
+CM,1.0,1.0,1.0
+IT,1.0,1.0,1.0
+NT,1.0,1.0,1.0
+midbrain,1.0,1.0,1.0
+nasal skin,0.0,0.0,0.0
+nasal tip,0.0,0.0,0.0
+nasal_skin,0.0,0.0,0.0
+nasal_tip,0.0,0.0,0.0
+thalami,1.0,1.0,1.0
